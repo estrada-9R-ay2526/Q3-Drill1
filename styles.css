@@ -1,7 +1,3 @@
-body{
-
-}
-
 .container{
     width: 60%;
     border: 4px solid darkblue;
@@ -9,5 +5,4 @@ body{
     padding: 15px;
     margin: 0px auto;
     text-align: center;
-
 }
